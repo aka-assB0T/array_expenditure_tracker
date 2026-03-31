@@ -132,12 +132,17 @@ To delete a node: Specify the node to delete by position or by value.
 To search for a node: Enter the node value or position.
 
 ## Project Structure
+
+```
 .
-├── .gitignore               # Specifies intentionally untracked files to ignore
-├── README.md                # This README file
-├── main.py                  # Main application entry point, handles UI setup and array operations
-├── array_operations.py      # The core module that defines array operations (insert, delete, etc.)
-├── requirements.txt         # Lists Python dependencies (if any)
+├── .gitignore                   # Specifies intentionally untracked files to ignore
+├── README.md                    # This README file
+├── array-old-backup.py          # First version of the array program
+├── array-updated.py             # Final version of the array program
+├── linked-list-incomplete.py    # Linked list version, incomplete for now
+└── requirements.txt             # Lists Python dependencies
+```
+
 
 ## Configuration
 Array Operations: The array operations like insertion, deletion, search, and update are managed in the array_operations.py module.
