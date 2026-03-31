@@ -66,8 +66,8 @@ Before you begin, ensure you have the following installed:
 Follow these steps to get the project up and running on your local machine:
 1.  **Clone the repository**:
     ```bash
-    git clone https://github.com/aka-assB0T/array_expenditure_tracker.git
-    cd sunflower_complaint_management_system
+    git clone https://github.com/aka-assB0T/array-linked-list-expenditure-tracker.git
+    cd array-linked-list-expenditure-tracker
     ```
 
 2.  **Create a virtual environment** (recommended):
